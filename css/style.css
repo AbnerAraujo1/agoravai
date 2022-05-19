@@ -1,0 +1,105 @@
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    header {
+      margin-top: 12%;
+      margin-left: 12%;
+      line-height: 116%;
+      font-size: 73%;
+    }
+
+    header h1 {
+      line-height: 40%;
+      font-size: 170%;
+    }
+    }
+
+    header h3 {
+      line-height: 126%;
+    }
+
+    /* fotos arredondadas */
+    figure {
+      display: flex;
+      flex-direction: row;
+      margin-left: -1%;
+      width: 64%;
+    }
+
+    
+
+figure img {
+
+    width: 16%;
+    border-radius: 50%;
+    padding: 4%;
+
+}
+
+    /* corpo da página */
+
+    main h1 {
+      margin-top: 17%;
+      margin-left: 38%;
+      font-size: 167%;
+    }
+    /* começa daqui imagens e textos lado a lado (a,b,c) */
+    /* primeiro texto */
+    .left-side {
+      margin-left: 6%;
+      margin-top: 31%;
+      font-size: 72%;
+    }
+    .left-side h1 {
+      margin-left: 13%;
+      font-size: 216%;
+    }
+     /* primeira imagem */
+     .right-side {
+      margin-left: 68%;
+      margin-top: -28%;
+      width: 152%%;
+    }
+    .right-side img {
+      width: 96%;
+    }
+    /* parte 2 */
+    .left-sideb img {
+      width :25%;
+    }
+    .left-sideb {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin-top: 28%;
+    }
+    /* texto 2 */
+
+    .right-sideb {
+      margin-top: -48%;
+      margin-left: 50%;
+    }
+    .right-sideb h1 {
+      margin-left: 14%;
+    }
+    /* parte 3 */
+    /*img 3 */
+    .left-sidec img {
+      width :25%;
+    }
+    .left-sidec {
+      margin-top: 42%;
+    }
+    .right-sidec h1 {
+      margin-left: 12%;
+    }
+
+    .right-sidec {
+      margin-left: 47%;
+      margin-top: -201px;
+    }
+
+
+
